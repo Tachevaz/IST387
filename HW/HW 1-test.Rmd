@@ -1,0 +1,61 @@
+# IST 387 HW 1
+##### Copyright 2021, Jeffrey Stanton, Jeffrey Saltz, and Jasmina Tacheva
+
+
+```R
+# Enter your name here: 
+```
+
+### Attribution statement: (choose only one and delete the rest)
+
+
+```R
+# 1. I did this homework by myself, with help from the book and the professor.
+# 2. I did this homework with help from the book and the professor and these Internet sources:
+# 3. I did this homework with help from <Name of another student> but did not cut and paste any code.
+```
+
+Define a variable:
+
+
+```R
+  x <- 280
+```
+
+Define the following vectors, which represent the **population** (in thousands) and **number of colleges** in each of the five counties in Central New York (CNY) – **Cayuga**, **Cortland**, **Madison**, **Onondaga**, and **Oswego**, in this order:
+
+
+```R
+population <- c(80, 49, 73, 467, 122)
+colleges <- c(2, 2, 3, 9, 2)
+```
+
+# Part 1: Calculating statistics using R  
+
+A.	Show the number of observations in the **population** vector with the length() function: 
+
+
+```R
+length(population)
+```
+
+B.	Show the number of observations in the **colleges** vector with the length() function:
+
+
+```R
+
+```
+
+C.	Calculate the average CNY population using the mean() function:
+
+
+```R
+
+```
+
+D.	Calculate the average number of colleges in CNY using the mean() function:
+
+
+```R
+
+```
